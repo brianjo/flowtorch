@@ -1,7 +1,7 @@
 module.exports = {
   title: 'FlowTorch',
   tagline: 'Easily learn and sample complex probability distributions with PyTorch',
-  url: 'https://flowtorch.ai',
+  url: 'https://https://brianjo.github.io/flowtorch/',
   baseUrl: '/flowtorch/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
